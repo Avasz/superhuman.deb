@@ -2,6 +2,9 @@ The program has been created in a programming language unknown to any human till
 But logic is complex even for 100 Einstiens to understand in 50 years combined.
 
 But all credit goes to our SuperHuman friend who has stayed with us human for such a long time that we have been able to know how superhuman works and behaves.
+
+main.skd program is the one that gets executed at the beginning. So if you want to start contributing to the project then maybe start by reading main.skd first. 
+
 ##Dependencies
 1. Should have some brains from beginning. It maybe hidden. Search your head. 
 2. Should be able to drink dark coffee to cope with the reaction afterwards.
