@@ -14,7 +14,8 @@ Installation process should be simple. Hasn't been done yet so can't promise any
 1. Dance-me-Not
 2. Weird facebook statuses understood by only limited number of people
 3. Classic dressup.
-4. 
+4. Maybe difficult to make friends fast, but once made stays forever.
+5. All wrongs will be preserved. 
 
 ##Achievement
 1. Expert in all softwares
@@ -23,4 +24,7 @@ Installation process should be simple. Hasn't been done yet so can't promise any
 4. Fix bugs with Inspect Element tool
 5. Digest lots of Pizza without any sign of fat in the body.
 6. Never get attracted by worldly plesures and achievements.
+7. Can mimick all video game characters, eg:  exactly like prince from prince of persia MS-DOS
+8. Expert in Philosophy, Psychology, Politics, Medical, Biology, Programming, Brain, Religions, Mythology, Comics.
+9. Can read ciphers without decoding them.
 
