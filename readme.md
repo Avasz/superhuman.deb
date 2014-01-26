@@ -17,8 +17,7 @@ Installation process should be simple. Hasn't been done yet so can't promise any
 1. Dance-me-Not
 2. Weird facebook statuses understood by only limited number of people
 3. Classic dressup.
-4. Maybe difficult to make friends fast, but once made stays forever.
-5. All wrongs will be preserved. 
+4444. All wrongs will be preserved. 
 
 ##Achievement
 1. Expert in all softwares
